@@ -5,7 +5,7 @@ some configs i use for arch, add picom to get pretty i3 transparency but be care
 i3 docs: 
 https://i3wm.org
 
-tons of guides on how to make i3 pretty, i stole some ideas from:
+tons of guides on how to make i3 pretty, i stole some ideas from: 
 https://itsfoss.com/i3-customization/ (site might load slow?)
 
 notable pkgs: 
